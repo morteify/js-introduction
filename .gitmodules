@@ -1,3 +1,6 @@
 [submodule "SoundKit"]
 	path = SoundKit
 	url = https://github.com/michal-weglarz/Drumkit
+[submodule "soundkit"]
+	path = soundkit
+	url = https://github.com/michal-weglarz/soundkit
