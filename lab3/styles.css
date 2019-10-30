@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#canvas {
+  position: absolute;
+  background: aqua;
+  width: 100%;
+  top: 120px;
+  left: 0;
+  bottom: 0;
+}
+
+header {
+  width: 100vw;
+  background-color: coral;
+}
+
+.red-circle {
+  background: red;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  position: "absolute";
+}

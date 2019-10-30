@@ -1,0 +1,3 @@
+[submodule "SoundKit"]
+	path = SoundKit
+	url = https://github.com/michal-weglarz/Drumkit
