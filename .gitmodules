@@ -1,3 +1,7 @@
 [submodule "soundkit"]
 	path = soundkit
 	url = https://github.com/michal-weglarz/soundkit
+[submodule "painting-app"]
+	path = painting-app
+	url = git@github.com:morteify/painting-app.git
+	branch = master
