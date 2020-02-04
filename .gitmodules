@@ -5,3 +5,6 @@
 	path = painting-app
 	url = git@github.com:morteify/painting-app.git
 	branch = master
+[submodule "notepocket"]
+	path = notepocket
+	url = git@github.com:morteify/notepocket.git
