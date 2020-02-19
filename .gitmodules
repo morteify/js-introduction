@@ -8,3 +8,6 @@
 [submodule "notepocket"]
 	path = notepocket
 	url = git@github.com:morteify/notepocket.git
+[submodule "ball-in-a-hole"]
+	path = ball-in-a-hole
+	url = https://github.com/morteify/ball-in-a-hole
